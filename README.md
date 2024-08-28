@@ -1,1 +1,1 @@
-# Leaf_Disease_Detection
+# AI_Virtual_Tryon_for_Cloths
